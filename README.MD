@@ -76,7 +76,7 @@ pip install -r requirements.txt
    - ArcFace is a state-of-the-art face recognition algorithm that focuses on learning highly discriminative features for face verification and identification. It is known for its robustness to variations in lighting, pose, and facial expressions.
 
     <p align="center">
-    <img src="https://user-imagesgithubusercontentcom80930272160270088-a3760d88-ebc8-4535-907e-6b684276755a.png" alt="ArcFace" />
+    <img src="./assets/Screenshot 2025-03-15 164219.png" alt="ArcFace" />
     <br>
     <em>ArcFace</em>
     </p>
